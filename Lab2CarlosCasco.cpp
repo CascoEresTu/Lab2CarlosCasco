@@ -74,7 +74,6 @@ void ejercicio2(int numero) {
 
 void CambioADecimal(string numero){
 
-
   // esta variable es la base que queremos buscar
   int suma = 0;
   //numero = "102";
