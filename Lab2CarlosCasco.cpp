@@ -99,6 +99,7 @@ void CambioADecimal(string numero){
 
           nuevoNumero = (numero[j] - 48) *pow (suma,cont);
 
+
           total+= nuevoNumero;
 
           cont++;
