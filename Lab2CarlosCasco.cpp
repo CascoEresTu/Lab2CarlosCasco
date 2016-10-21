@@ -15,6 +15,7 @@ int main() {
   int s = 0;
 	while(s==0){
 
+
     int op = 0;
 
     string title ="Laboratorio # 2 \n";
@@ -72,6 +73,7 @@ void ejercicio2(int numero) {
 }
 
 void CambioADecimal(string numero){
+
 
   // esta variable es la base que queremos buscar
   int suma = 0;
